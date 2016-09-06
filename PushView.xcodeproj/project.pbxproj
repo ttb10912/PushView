@@ -8,12 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		437EFD871D7D5F050067EBF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFD861D7D5F050067EBF8 /* AppDelegate.swift */; };
-		437EFD891D7D5F050067EBF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFD881D7D5F050067EBF8 /* ViewController.swift */; };
-		437EFD8C1D7D5F050067EBF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 437EFD8A1D7D5F050067EBF8 /* Main.storyboard */; };
 		437EFD8E1D7D5F050067EBF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 437EFD8D1D7D5F050067EBF8 /* Assets.xcassets */; };
-		437EFD911D7D5F050067EBF8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 437EFD8F1D7D5F050067EBF8 /* LaunchScreen.storyboard */; };
 		437EFD9C1D7D5F050067EBF8 /* PushViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFD9B1D7D5F050067EBF8 /* PushViewTests.swift */; };
 		437EFDA71D7D5F050067EBF8 /* PushViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFDA61D7D5F050067EBF8 /* PushViewUITests.swift */; };
+		437EFDB61D7D608A0067EBF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFDB41D7D608A0067EBF8 /* ViewController.swift */; };
+		437EFDB71D7D608A0067EBF8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDB51D7D608A0067EBF8 /* Main.storyboard */; };
+		437EFDB91D7D60AF0067EBF8 /* zing-mp3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDB81D7D60AF0067EBF8 /* zing-mp3.jpg */; };
+		437EFDBC1D7D61310067EBF8 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFDBA1D7D61310067EBF8 /* LoginController.swift */; };
+		437EFDC01D7D61D70067EBF8 /* MathController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437EFDBE1D7D61D70067EBF8 /* MathController.swift */; };
+		437EFDCA1D7D62310067EBF8 /* 816dfd710806e20aa40a7cd8c76d2e2d.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC21D7D62310067EBF8 /* 816dfd710806e20aa40a7cd8c76d2e2d.jpg */; };
+		437EFDCB1D7D62310067EBF8 /* blank-check-box.png in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC31D7D62310067EBF8 /* blank-check-box.png */; };
+		437EFDCC1D7D62310067EBF8 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC41D7D62310067EBF8 /* board.png */; };
+		437EFDCD1D7D62310067EBF8 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC51D7D62310067EBF8 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */; };
+		437EFDCE1D7D62310067EBF8 /* iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC61D7D62310067EBF8 /* iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg */; };
+		437EFDCF1D7D62310067EBF8 /* note1.png in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC71D7D62310067EBF8 /* note1.png */; };
+		437EFDD01D7D62310067EBF8 /* note2.png in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC81D7D62310067EBF8 /* note2.png */; };
+		437EFDD11D7D62310067EBF8 /* note3.png in Resources */ = {isa = PBXBuildFile; fileRef = 437EFDC91D7D62310067EBF8 /* note3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,10 +46,7 @@
 /* Begin PBXFileReference section */
 		437EFD831D7D5F050067EBF8 /* PushView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PushView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		437EFD861D7D5F050067EBF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		437EFD881D7D5F050067EBF8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		437EFD8B1D7D5F050067EBF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		437EFD8D1D7D5F050067EBF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		437EFD901D7D5F050067EBF8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		437EFD921D7D5F050067EBF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		437EFD971D7D5F050067EBF8 /* PushViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PushViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		437EFD9B1D7D5F050067EBF8 /* PushViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushViewTests.swift; sourceTree = "<group>"; };
@@ -47,6 +54,19 @@
 		437EFDA21D7D5F050067EBF8 /* PushViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PushViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		437EFDA61D7D5F050067EBF8 /* PushViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushViewUITests.swift; sourceTree = "<group>"; };
 		437EFDA81D7D5F050067EBF8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		437EFDB41D7D608A0067EBF8 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		437EFDB51D7D608A0067EBF8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		437EFDB81D7D60AF0067EBF8 /* zing-mp3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "zing-mp3.jpg"; path = "PushView/zing-mp3.jpg"; sourceTree = "<group>"; };
+		437EFDBA1D7D61310067EBF8 /* LoginController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
+		437EFDBE1D7D61D70067EBF8 /* MathController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MathController.swift; sourceTree = "<group>"; };
+		437EFDC21D7D62310067EBF8 /* 816dfd710806e20aa40a7cd8c76d2e2d.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 816dfd710806e20aa40a7cd8c76d2e2d.jpg; sourceTree = "<group>"; };
+		437EFDC31D7D62310067EBF8 /* blank-check-box.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "blank-check-box.png"; sourceTree = "<group>"; };
+		437EFDC41D7D62310067EBF8 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		437EFDC51D7D62310067EBF8 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cartoon-Springs-PPT-Backgrounds-1024x768.jpg"; sourceTree = "<group>"; };
+		437EFDC61D7D62310067EBF8 /* iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg"; sourceTree = "<group>"; };
+		437EFDC71D7D62310067EBF8 /* note1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note1.png; sourceTree = "<group>"; };
+		437EFDC81D7D62310067EBF8 /* note2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note2.png; sourceTree = "<group>"; };
+		437EFDC91D7D62310067EBF8 /* note3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = note3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +97,15 @@
 		437EFD7A1D7D5F050067EBF8 = {
 			isa = PBXGroup;
 			children = (
+				437EFDC21D7D62310067EBF8 /* 816dfd710806e20aa40a7cd8c76d2e2d.jpg */,
+				437EFDC31D7D62310067EBF8 /* blank-check-box.png */,
+				437EFDC41D7D62310067EBF8 /* board.png */,
+				437EFDC51D7D62310067EBF8 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg */,
+				437EFDC61D7D62310067EBF8 /* iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg */,
+				437EFDC71D7D62310067EBF8 /* note1.png */,
+				437EFDC81D7D62310067EBF8 /* note2.png */,
+				437EFDC91D7D62310067EBF8 /* note3.png */,
+				437EFDB81D7D60AF0067EBF8 /* zing-mp3.jpg */,
 				437EFD851D7D5F050067EBF8 /* PushView */,
 				437EFD9A1D7D5F050067EBF8 /* PushViewTests */,
 				437EFDA51D7D5F050067EBF8 /* PushViewUITests */,
@@ -98,10 +127,11 @@
 			isa = PBXGroup;
 			children = (
 				437EFD861D7D5F050067EBF8 /* AppDelegate.swift */,
-				437EFD881D7D5F050067EBF8 /* ViewController.swift */,
-				437EFD8A1D7D5F050067EBF8 /* Main.storyboard */,
 				437EFD8D1D7D5F050067EBF8 /* Assets.xcassets */,
-				437EFD8F1D7D5F050067EBF8 /* LaunchScreen.storyboard */,
+				437EFDB41D7D608A0067EBF8 /* ViewController.swift */,
+				437EFDB51D7D608A0067EBF8 /* Main.storyboard */,
+				437EFDBA1D7D61310067EBF8 /* LoginController.swift */,
+				437EFDBE1D7D61D70067EBF8 /* MathController.swift */,
 				437EFD921D7D5F050067EBF8 /* Info.plist */,
 			);
 			path = PushView;
@@ -229,9 +259,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				437EFD911D7D5F050067EBF8 /* LaunchScreen.storyboard in Resources */,
+				437EFDB91D7D60AF0067EBF8 /* zing-mp3.jpg in Resources */,
+				437EFDB71D7D608A0067EBF8 /* Main.storyboard in Resources */,
+				437EFDD01D7D62310067EBF8 /* note2.png in Resources */,
+				437EFDCC1D7D62310067EBF8 /* board.png in Resources */,
+				437EFDCF1D7D62310067EBF8 /* note1.png in Resources */,
+				437EFDCD1D7D62310067EBF8 /* Cartoon-Springs-PPT-Backgrounds-1024x768.jpg in Resources */,
+				437EFDD11D7D62310067EBF8 /* note3.png in Resources */,
+				437EFDCA1D7D62310067EBF8 /* 816dfd710806e20aa40a7cd8c76d2e2d.jpg in Resources */,
 				437EFD8E1D7D5F050067EBF8 /* Assets.xcassets in Resources */,
-				437EFD8C1D7D5F050067EBF8 /* Main.storyboard in Resources */,
+				437EFDCB1D7D62310067EBF8 /* blank-check-box.png in Resources */,
+				437EFDCE1D7D62310067EBF8 /* iPhone-5-Wallpaper-HD-abstract-14-Chalkboard-04.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +294,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				437EFD891D7D5F050067EBF8 /* ViewController.swift in Sources */,
+				437EFDB61D7D608A0067EBF8 /* ViewController.swift in Sources */,
+				437EFDC01D7D61D70067EBF8 /* MathController.swift in Sources */,
+				437EFDBC1D7D61310067EBF8 /* LoginController.swift in Sources */,
 				437EFD871D7D5F050067EBF8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -291,25 +331,6 @@
 			targetProxy = 437EFDA31D7D5F050067EBF8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		437EFD8A1D7D5F050067EBF8 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				437EFD8B1D7D5F050067EBF8 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		437EFD8F1D7D5F050067EBF8 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				437EFD901D7D5F050067EBF8 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		437EFDA91D7D5F050067EBF8 /* Debug */ = {
@@ -484,6 +505,7 @@
 				437EFDAD1D7D5F050067EBF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		437EFDAE1D7D5F050067EBF8 /* Build configuration list for PBXNativeTarget "PushViewTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +514,7 @@
 				437EFDB01D7D5F050067EBF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		437EFDB11D7D5F050067EBF8 /* Build configuration list for PBXNativeTarget "PushViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +523,7 @@
 				437EFDB31D7D5F050067EBF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
